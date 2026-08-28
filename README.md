@@ -75,25 +75,9 @@ npm run dev
 - `npm run storybook` - start Storybook UI
 - `npm run build-storybook` - build Storybook static site
 
-## Environment
 
-This app uses local environment settings in `.env`.
 
-Example:
 
-```env
-VITE_API_BASE_URL=/api
-VITE_WS_URL=ws://localhost:5173/ws
-VITE_DEFAULT_THEME=dark
-VITE_DATA_REFRESH_INTERVAL=5000
-VITE_MAX_WIDGETS=20
-VITE_ENABLE_MOCK_AUTH=true
-```
-
-## Notes
-
-- `.env` is ignored by Git to keep local configuration private.
-- No real secret API keys are included in this repository.
 - If you want to deploy the app, replace the mock data and WebSocket URLs with real endpoints.
 
 ## License
