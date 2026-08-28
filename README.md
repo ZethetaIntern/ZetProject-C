@@ -1,4 +1,4 @@
-# Zetheta Project C
+# Meridian Portfolio Analytics Dashboard
 
 A financial analytics dashboard prototype for institutional asset management.
 
@@ -46,7 +46,7 @@ This repository implements a configurable dashboard UI with financial analytics 
 
 ```bash
 git clone https://github.com/<your-username>/<your-repo>.git
-cd zethetaProjectC
+cd meridian
 ```
 
 2. Install dependencies
